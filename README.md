@@ -4,8 +4,8 @@
 <br>
 팀구성 : 개발자 2명, 디자이너 1명
 <br>
-- 빙하를 지키기 위한 펭귄의 모험!
-- 점점 강해지는 오염과 장애물에 맞서 다양한 능력을 전략적으로 사용하고, 점수를 쌓아 최고 순위의 환경 수호자로 도전하세요!
+    - 빙하를 지키기 위한 펭귄의 모험!
+    - 점점 강해지는 오염과 장애물에 맞서 다양한 능력을 전략적으로 사용하고, 점수를 쌓아 최고 순위의 환경 수호자로 도전하세요!
 <br>진행기간 2024/11/01 - 2024/11/03
 <br><br><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
