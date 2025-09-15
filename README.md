@@ -29,4 +29,4 @@
 ## 🛠 아쉬웠던 점
 - 그 당시 같이 개발에 진행한 친구와 코드 충돌이 반복적으로 발생하여 고치느라 완성도가 떨어짐 → 그당시엔 프리팹화를 하여 충돌이 발생해도 빨리 수정할 수 있게 함
 - 해커톤때 제작한 게임으로 완성도나 난이도 설정에 아쉬움 → 추가 수정
-게임 링크 : [https://play.google.com/store/apps/details?id=com.companyname.RUNA](https://penguin-build.vercel.app/)
+게임 링크 : penguin-build.vercel.app
